@@ -5,8 +5,13 @@
 
 A modular, extendable knowledge assistant that uses Retrieval-Augmented Generation (RAG) and multiple specialized tools (calculator, dictionary, retrieval, LLM) for context-aware intelligent answering.  
 Built with Python, Streamlit, FAISS, and Groq's LLM.
+---
+## 🚀 Live Demo
 
+Try out the app here:  
+[https://rag-multi-agent-qna-eeeszpxfj2m37hycgsongm.streamlit.app//](https://rag-multi-agent-qna-eeeszpxfj2m37hycgsongm.streamlit.app//)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rag-multi-agent-qna-eeeszpxfj2m37hycgsongm.streamlit.app//)
 ---
 
 ## 🚀 Features
