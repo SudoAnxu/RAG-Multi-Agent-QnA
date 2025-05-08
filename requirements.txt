@@ -1,0 +1,6 @@
+# This file is used to install the required packages for the project.
+streamlit
+faiss-cpu
+sentence-transformers
+requests
+torch

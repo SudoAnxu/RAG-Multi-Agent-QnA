@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments & Python environments
+venv/
+.env/
+env/
+ENV/
+env.bak/
+rag_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# Streamlit secrets (never commit this)
+.streamlit/secrets.toml
+
+# macOS files
+.DS_Store
+
+# Windows System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pycharm
+.idea/
+
+# Log files
+*.log
+
+# Ignore data, output or temp files if any
+*.csv
+*.tsv
+*.dat
+*.tmp
+
+# Ignore package installs (site-packages, etc)
+Lib/
+Lib/site-packages/
+
+# Requirements
+pip-log.txt
+
+# If you store test outputs
+test-output/

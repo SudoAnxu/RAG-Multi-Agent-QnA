@@ -1,0 +1,28 @@
+Product: Apple Watch Series 9
+
+Overview:
+The Apple Watch Series 9 empowers users to manage fitness, health, and communications from their wrist. It features a bright Always-On Retina display, the S9 SiP for faster performance, and advanced sensors for heart rate, ECG, blood oxygen, and sleep monitoring.
+
+Fitness and Health Features:
+- Activity Rings: Track Move, Exercise, and Stand daily
+- Built-in GPS and compass
+- Blood Oxygen and ECG apps
+- Crash Detection and Emergency SOS
+
+Battery and Charging:
+- Battery lasts up to 18 hours on a single charge
+- Fast charging: up to 80% in 45 minutes using the included cable
+
+Getting Started:
+1. Press and hold the side button to turn on the Apple Watch.
+2. Bring your iPhone close to the Apple Watch.
+3. Follow pairing instructions displayed on your iPhone.
+
+Troubleshooting:
+- If your Apple Watch won’t pair, confirm Bluetooth is enabled on your iPhone and both devices are updated.
+- For charging issues, ensure the magnetic charger is properly connected.
+- Restart the watch by pressing and holding the side button and Digital Crown together for 10 seconds.
+
+Safety & Warranty:
+- All health features are not intended as medical diagnosis.
+- Apple Watch includes a one-year limited warranty, extendable with AppleCare+.

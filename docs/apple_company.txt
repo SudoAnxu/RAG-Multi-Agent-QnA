@@ -1,0 +1,28 @@
+Company: ACME Robotics
+
+About ACME Robotics:
+Founded in 2013, ACME Robotics develops and manufactures autonomous drones for both industrial and agricultural sectors. Our mission is to deliver advanced robotic solutions that improve efficiency and safety in a wide range of industries. Our Seattle headquarters is home to over 200 engineers, support agents, and sales professionals.
+
+Product Portfolio:
+- ACME EagleEye: Surveillance drone for industrial sites.
+- ACME CropMax: Precision agriculture drone equipped with multispectral sensors for crop monitoring.
+
+Warranty:
+All ACME drones are covered by a 2-year limited warranty, which includes coverage for manufacturing defects and software malfunctions. Batteries and propellers have a 6-month warranty period. Warranty claims can be submitted online or via phone.
+
+Support & Service:
+We offer 24/7 customer support via phone and email. Our support staff are trained to handle inquiries related to setup, troubleshooting, repairs, and software updates.
+
+Contact Details:
+- Email: support@acmedrones.com
+- Phone: 1-888-555-ACME
+
+FAQs:
+Q: How do I update my ACME drone’s firmware?
+A: Use the ACME DroneManager app, connect your drone via USB-C, and go to the Updates tab. Follow on-screen instructions.
+
+Q: Where is ACME Robotics headquartered?
+A: Seattle, Washington.
+
+Q: How do I schedule maintenance service?
+A: ACME offers annual maintenance. Schedule an appointment by logging into your ACME account and selecting ‘Maintenance Request.’

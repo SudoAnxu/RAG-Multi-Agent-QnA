@@ -1,0 +1,21 @@
+Product: iPhone 15 Pro
+
+Overview:
+The iPhone 15 Pro is Apple’s latest smartphone, featuring the A17 Pro chip, all-new titanium design, and advanced camera system. It supports 5G connectivity, MagSafe wireless charging, Face ID, and operates on iOS 17.
+
+Key Specifications:
+- Display: 6.1-inch Super Retina XDR
+- Storage: 128GB, 256GB, 512GB, 1TB options
+- Camera System: Triple 48MP Pro Camera with night mode and Deep Fusion
+- Battery Life: Up to 23 hours talk time
+
+Setup Instructions:
+1. Press and hold the side button to power on the iPhone.
+2. Follow on-screen instructions to set up using Quick Start or manually.
+3. Sign in with your Apple ID to access iCloud and App Store.
+4. Enable Face ID for secure authentication.
+
+Troubleshooting:
+- If the iPhone does not turn on, try charging with the included USB-C cable.
+- For network issues, go to Settings > Cellular and toggle Airplane mode.
+- If Face ID is not working, clean the front camera area and ensure nothing blocks your face.
