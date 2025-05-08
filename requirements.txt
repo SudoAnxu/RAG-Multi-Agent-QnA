@@ -1,6 +1,5 @@
-# This file is used to install the required packages for the project.
-streamlit
-faiss-cpu
-sentence-transformers
-requests
-torch
+streamlit==1.45.0
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+requests==2.32.3
+torch==2.2.0
