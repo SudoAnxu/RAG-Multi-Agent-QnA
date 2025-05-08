@@ -1,3 +1,5 @@
+import os
+os.environ['STREAMLIT_WATCHER_TYPE'] = 'none'
 import streamlit as st
 st.set_page_config(page_title="RAG Multi-Agent Q&A", layout="centered")
 
